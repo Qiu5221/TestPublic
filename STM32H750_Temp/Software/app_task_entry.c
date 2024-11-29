@@ -3,7 +3,7 @@
   * @file    app_task_entry.c
   * @author  QWX
   * @version V1.0
-  * @date    2022-04-02
+  * @date    2024-11-29
   * @brief   FreeRTOS 创建任务
   ******************************************************************
   */
