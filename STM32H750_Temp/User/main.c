@@ -1,11 +1,11 @@
 
 #include "main.h"
 
-#include "FreeRTOS.h"					/* FreeRTOS 头文件 		*/
-#include "task.h"							/* FreeRTOS 任务 			*/
-#include "queue.h"						/* FreeRTOS 消息队列 	*/
-#include "semphr.h"						/* FreeRTOS 信号量 		*/
-#include "event_groups.h"		  /* FreeRTOS 事件组 		*/
+#include "FreeRTOS.h"         /* FreeRTOS 头文件    */
+#include "task.h"             /* FreeRTOS 任务      */
+#include "queue.h"            /* FreeRTOS 消息队列  */
+#include "semphr.h"           /* FreeRTOS 信号量    */
+#include "event_groups.h"     /* FreeRTOS 事件组    */
 
 #include "driver_sysclk.h"
 #include "driver_gpio.h"  
